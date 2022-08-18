@@ -1,0 +1,1 @@
+This is to test how to delete a file on Git.
